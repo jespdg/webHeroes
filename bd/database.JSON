@@ -26,5 +26,40 @@
     "poder": "Soltar teias",
     "universo": "Marvel",
     "ativo": true
+  },
+  {
+    "id": 6,
+    "nome": "Homem-libélula",
+    "poder": "Habilidades sobre humanas",
+    "universo": "DC",
+    "ativo": true
+  },
+  {
+    "id": 7,
+    "nome": "Homem formiga",
+    "poder": "encolher",
+    "universo": "Marvel",
+    "ativo": true
+  },
+  {
+    "id": 8,
+    "nome": "Emma Frost",
+    "poder": "Telepatia e controle mental",
+    "universo": "Marvel",
+    "ativo": true
+  },
+  {
+    "id": 9,
+    "nome": "Jean Gray",
+    "poder": "Telepatia e telecinese",
+    "universo": "Marvel",
+    "ativo": true
+  },
+  {
+    "id": 10,
+    "nome": "Tempestade",
+    "poder": "Controle do clima",
+    "universo": "Marvel",
+    "ativo": true
   }
 ]
